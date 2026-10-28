@@ -1,0 +1,4 @@
+interface:
+  display_name: "Context Handoff"
+  short_description: "用日常语言交接任务、接着做或查看进度，自动整理背景并核验必要资料"
+  default_prompt: "使用 $context-handoff，根据我的话直接交接、接着做或查看进度，自动整理已有背景，只在缺少必需信息时问一个简短问题。"
